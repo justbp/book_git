@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# 临时文件
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# 编辑器
+.vscode/
+.idea/
+*.sublime-*
+
+# 日志文件
+*.log
+
+# 备份文件
+*.bak
+*.backup
+
+# 个人敏感信息（如果有）
+secrets/
+*.key
+*.pem
+
+# 大文件（建议使用 Git LFS 或外部存储）
+*.pdf
+*.epub
+*.mobi
+*.zip
+*.rar
+
