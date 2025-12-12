@@ -28,10 +28,11 @@ secrets/
 *.key
 *.pem
 
-# 大文件（建议使用 Git LFS 或外部存储）
-*.pdf
-*.epub
-*.mobi
-*.zip
-*.rar
+# 大文件（建议使用 Git LFS 或外部存储，可按需调整）
+# 如需忽略，请再启用相关规则
+# *.pdf
+# *.epub
+# *.mobi
+# *.zip
+# *.rar
 
